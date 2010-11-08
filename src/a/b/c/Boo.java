@@ -1,3 +1,7 @@
+/*
+ * Copyright IrsCo (c) 2010.
+ */
+
 package a.b.c;
 
 /**
