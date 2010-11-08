@@ -8,4 +8,5 @@ package a.b.c;
  * by Irina.Petrovskaya, on 01.11.10, 18:51
  */
 public class Foo {
+    private Int1 i_field;
 }
